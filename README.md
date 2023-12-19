@@ -1,4 +1,9 @@
-This repsoitory contains the demo codes required for the Second Level Assignment Evaluation.
+The repsoitory _**(Crio.do-demo-codes)**_ contains the demo codes required for the Second Level Assignment Evaluation.
+
+The assigment chosen was _**Multi-threading**_ in Java.   
+
+   
+This repository contains the following set of files along with the details mentioned:
 
 - **ThreadTester.java** - contains the java code to understand the basic creation of threads in java along with daemon condition.
 
